@@ -40,7 +40,8 @@ function App() {
             <p className="leading-relaxed text-slate-700">
               eron.asia@cit.edu
               <br />
-              @eronasia on most things
+              eronasia@gmail.com - Gmail
+              <br />
             </p>
           </section>
         </main>
